@@ -9,7 +9,7 @@ let person = {
 // Altera o valor da propriedade "name" do objeto "person"
 person.name = 'John';
 
-// Define uma variável "selection" e usa a notação de colchetes para adicionar uma nova propriedade "selection" ao objeto "person"
+// Define uma variável "selection" e usa a notação de colchetes para adicionar uma nova propriedade "selection" ao objeto "person"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
 let selection = 'name';
 person['selection'] = 'Mary';
 
