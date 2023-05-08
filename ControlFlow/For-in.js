@@ -14,3 +14,7 @@ const colors = ['red', 'green', 'blue'];
 // Loop for..in que itera sobre os índices do array colors
 for (let index in colors)
    console.log(index, colors[index]); // Imprime o índice e valor de cada elemento
+
+   // for-of
+   for (let color of colors)
+    console.log(color);
