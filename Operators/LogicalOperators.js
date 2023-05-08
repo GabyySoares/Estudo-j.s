@@ -7,6 +7,17 @@ let eligibleForLoan =  highIncome  && goodCreditScore;
 console.log('Eligible', eligibleForLoan);
 
 // Utiliza o operador lógico "!" (negação) para definir a variável "applicationRefused" como true se "eligibleForLoan" for false, caso contrário, será definida como false
-let aplicationRefused = ! elegibleForLoan;
+let applicationRefused = ! elegibleForLoan;
 
 console.log('Aplication Resfused', applicationRefused); // exibe no console o valor de "applicationRefused" com a mensagem 'Application Refused:'
+
+
+
+
+let userColor = undefined; // define a variável "userColor" como undefined
+let defaultColor = 'blue'; // define a variável "defaultColor" como 'blue'
+
+// Utiliza o operador lógico "&&" para verificar se "userColor" possui um valor definido. Se possuir, "currentColor" receberá esse valor, caso contrário, receberá o valor de "defaultColor"
+let currentColor = userColor && defaultColor;
+
+console.log(currentColor);
