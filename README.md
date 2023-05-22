@@ -185,4 +185,6 @@ var frase2 = `Joao fez ${Bolos} Bolos`; // Utilizando Template String
 
 :pushpin: Você deve passar expressões / <br>
 variáveis dentro de ${}
+### Referência
+- [Curso](https://www.udemy.com/course/javascript-basics-for-beginners/)
 
