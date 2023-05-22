@@ -3,7 +3,7 @@
 ![logo javascript](https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png)
 
 
-# Conhecendo JavaScript 
+# Aprendendo JavaScript 
  O básico sobre JavaScript!
 
  <ul>
@@ -14,7 +14,7 @@
  	<li>Eventos dinâmicos</li>
  	<li>Laços de repetição</li>
 
-##  Variáveis :triangular_flag_on_post:
+### Variáveis :triangular_flag_on_post:
 É responsaveis por guardar dados na memória.
 inicia com a palavra var,let ou const
 
@@ -42,7 +42,7 @@ var idade = 20;
 var possuiFaculdade = true;
 ~~~
 
-### :radio_button: Vírgula 
+### Vírgula 
 <p>
 Utilizei a vírgula para criar mais de uma variável, sem repetir a
 palavra chave var.</p>
@@ -53,7 +53,7 @@ var nome = 'Gabriela',
 idade = 20,
 possuiFaculdade = true;
 ~~~
-### :radio_button: Sem valor 
+###  Sem valor 
 <p>
 Pode  declarar ela e não atribuir valor inicialmente.
 </p>
@@ -64,7 +64,7 @@ var precoLaranja;
 // retorna undefined
 ~~~
 
-### :radio_button: Como nomear uma variavel 
+###  Como nomear uma variavel 
 
 1. podem iniciar com $, _, ou letras.
 Podem conter números mas não iniciar com eles
@@ -95,7 +95,7 @@ var _nome;
 var possuiMestradoNoExterior;
 ~~~
 
-### :radio_button: Hoisting 
+### Hoisting 
 <p>
 :pushpin: São movidas para cima do código, porém o valor atribuído não é
 movido.
@@ -108,7 +108,7 @@ var profissao = 'Jornalista';
 console.log(profissao); //Retornar Jornalista
 ~~~
 
-### :radio_button: Mudar o valor atribuído 
+### Mudar o valor atribuído 
 <p>É possível mudar os valores atribuídos a variáveis declaradas com
 var e let . Porém não é possível modificar valores das declaradas com const</p>
 
@@ -123,7 +123,7 @@ possuiMestrado = false;
 //Retorna um erro
 ~~~
 
-## :radio_button: tipos de dados 
+###  tipos de dados 
 
 :pushpin: Todos são primitivos exceto os objetos
 
@@ -138,7 +138,7 @@ var novoObjeto = {} // Object
 ~~~
 :pushpin: Primitivos são dados imutaveis 
 
-### :radio_button: Veerificar tipo de dado 
+###  Veerificar tipo de dado 
 
 ~~~javascript
 var nome = 'Gabriela';
@@ -147,7 +147,7 @@ console.log(typeof nome);
 ~~~
 typeof null  retorna object
 
-### :radio_button: String 
+###  String 
 
 :pushpin: Você pode somar uma string e assim concatenar as palavras.
 
@@ -175,7 +175,7 @@ Aspas Duplas, Simples e Template String
  :pushpin: Não necessariamente precisamos </br>
 atribuir valores a uma variável
 
-### :radio_button: Template String 
+###  Template String 
 
 ~~~javascript
 var Bolos = 1000;
