@@ -3,18 +3,17 @@
 ![logo javascript](https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png)
 
 
-# Aprendendo JavaScript 
- O básico sobre JavaScript!
+# Aprendendo JavaScript 👩‍💻 
+O básico sobre JavaScript!
 
- <ul>
- 	<h1> :page_with_curl: Principais Pontos:</h1>
- 	<li>Propriedades do básicas e condicionais</li>
- 	<li>Conhecendo Variáveis e Funções no JavaScript</li>
- 	<li>As definições de Array e Objeto</li>
- 	<li>Eventos dinâmicos</li>
- 	<li>Laços de repetição</li>
+ <ul> 	<h1> :page_with_curl: Principais Pontos ✔️:</h1>
+ 	<li>Propriedades do básicas e condicionais </li>
+ 	<li>Conhecendo Variáveis e Funções no JavaScript </li>
+ 	<li>As definições de Array e Objeto </li>
+ 	<li>Eventos dinâmicos </li>
+ 	<li>Laços de repetição </li>
 
-### Variáveis :triangular_flag_on_post:
+### Variáveis 
 É responsaveis por guardar dados na memória.
 inicia com a palavra var,let ou const
 
@@ -29,7 +28,7 @@ const posuiFaculdade = false;
 ~~~
 
 
-### Sintaxe :triangular_flag_on_post:
+### Sintaxe 
 
 
 Palavra chave **var** seguida do **nome**, sinal de **igual** e o **valor**.
