@@ -6,7 +6,7 @@
 # Aprendendo JavaScript 👩‍💻 
 Aqui compartilho Um pouco do conhecimento que aprendi no curso JavaScript Basics for Beginners :blush:
 
-JavaScript é uma linguagem de programação interpretada de alto nível usada principalmente para criar páginas da Web interativas e interfaces de usuário dinâmicas. É comumente usado para desenvolvimento front-end e back-end.
+JavaScript é uma linguagem de programação interpretada de alto nível usada principalmente para criar páginas da Web interativas e interfaces de usuário dinâmicas. É normalmente usado para desenvolvimento front-end e back-end.
 
  <ul> 	<h1> :page_with_curl: Principais Pontos ✔️:</h1>
  	<li>Propriedades do básicas e condicionais </li>
