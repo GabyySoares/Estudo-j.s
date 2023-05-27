@@ -74,7 +74,7 @@ Podem conter números mas não iniciar com eles
 nome é diferente de Nome
 
 3. Não utilizar palavras reservadas</br>
-aqui vai um link das palavras reservadas --> (https://www.w3schools.com/js/js_reserved.asp)
+aqui vai um link das palavras reservadas - [Palavras-reservadas] (https://www.w3schools.com/js/js_reserved.asp)
 
 4. Camel case
 É comum nomearmos assim: abrirModal
